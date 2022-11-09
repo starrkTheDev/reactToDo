@@ -1,0 +1,26 @@
+ul {
+    list-style: none;
+    padding: 1rem;
+    width: 90%;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+li {
+    border: 1px solid #ccc;
+    padding: 0.5rem;
+    background-color: beige;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+p.left {
+    margin-left: 20px;
+}
+
+p.right {
+    text-align: right;
+    margin-right: 20px;
+}
